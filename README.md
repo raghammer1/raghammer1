@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav</h1>
-<h3 align="center">Software Developer @ Commonwealth Bank | Full-Stack Engineer | Problem Solver</h3>
+<h3 align="center">Software Developer @ Commonwealth Bank | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghammer1&label=Profile%20views&color=0e75b6&style=flat" alt="raghammer1" />
@@ -92,7 +92,7 @@
 
 ---
 
-### 🚀 Projects (Add yours here)
+### 🚀 Projects
 
 - 🧾 [Invoice UBL Converter](https://github.com/raghammer1/...) – Built for SMEs to easily convert PDFs to e-invoices.
 - 🌱 [Climate Change NGO Website](https://github.com/raghammer1/...) – Awareness platform with accessibility-first design.
