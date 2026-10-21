@@ -43,6 +43,23 @@ Some repositories are polished; others show the learning process. Here's a map i
 
 [Read the stats as text →](assets/github-stats.md)
 
+## Languages & tools
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
+  <img src="assets/toolkit.svg" width="100%" alt="Languages: Python, JavaScript, TypeScript, Java, HTML5 and CSS3. Frameworks and runtimes: React, Next.js, Vue.js, Node.js, Express and Django. Data and cloud: MongoDB, PostgreSQL, MySQL, AWS and Azure. Tools and design: Docker, Git, Postman, Figma and Photoshop." />
+</picture>
+
+<details>
+<summary>View the toolkit as text</summary>
+
+- **Languages:** Python · JavaScript · TypeScript · Java · HTML5 · CSS3
+- **Frameworks & runtimes:** React · Next.js · Vue.js · Node.js · Express · Django
+- **Data & cloud:** MongoDB · PostgreSQL · MySQL · AWS · Azure
+- **Tools & design:** Docker · Git · Postman · Figma · Photoshop
+
+</details>
+
 ## Start with the code
 
 <table>
