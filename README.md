@@ -1,73 +1,89 @@
-<a href="https://raghav-agarwal.raghagarwal.workers.dev/">
-  <img src="assets/hero.svg" width="100%" alt="Raghav Agarwal — Engineering intelligent systems. Software engineer in Sydney, working across Python, applied AI and full-stack development." />
+<a href="https://github.com/raghammer1?tab=repositories">
+  <img src="assets/hero.svg" width="100%" alt="Raghav Agarwal, @raghammer1. Build. Break. Understand. Repeat. Source code, experiments and things learned along the way." />
 </a>
 
 <p align="center">
-  <a href="https://raghav-agarwal.raghagarwal.workers.dev/"><strong>EXPLORE MY PORTFOLIO ↗</strong></a>
+  <a href="https://github.com/raghammer1?tab=repositories"><strong>REPOSITORIES</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/raghav-agarwal-84a59822b/">LinkedIn</a>
+  <a href="https://github.com/search?q=author%3Araghammer1+is%3Apr&amp;type=pullrequests">Pull requests</a>
   &nbsp; · &nbsp;
-  <a href="mailto:raghagarwal@gmail.com">Say hello</a>
+  <a href="#github-in-numbers">Activity & stats</a>
+  &nbsp; · &nbsp;
+  <a href="https://raghav-agarwal.raghagarwal.workers.dev/">Portfolio ↗</a>
 </p>
 
-## A little context
+I'm **Raghav** — a software engineer in **Sydney**, currently at **Commonwealth Bank**. This is my workbench: tools, experiments, coursework and side projects across **Python, JavaScript/TypeScript and full-stack development**.
 
-I'm **Raghav**, a software engineer based in **Sydney**, currently working in retail credit decisioning at **Commonwealth Bank**. I build across Python, applied AI and full-stack development—with a particular interest in making complex systems faster, clearer and more useful.
+Some repositories are polished; others show the learning process. Here's a map into the code.
 
-Previously, I built full-stack software at **Axiom Technologies** and worked on Python and SQL reporting automation at **ABN AMRO Clearing Bank**. **Computer Science, UNSW.**
+## GitHub in numbers
 
-## 01 / Engineering in practice
+<a href="https://github.com/raghammer1?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-overview-light.svg" />
+    <img src="assets/github-overview.svg" width="100%" alt="GitHub overview: original public repositories, stars earned, public pull requests authored and public pull requests merged." />
+  </picture>
+</a>
 
-| Focus | What I work on | Toolkit |
-| :--- | :--- | :--- |
-| **Python & data** | Rethinking expensive processing workflows and making data easier to work with. | Python · Polars · SQL |
-| **Applied AI** | Developing LLM-assisted analysis with context, interpretability and human review. | RAG · Agent workflows · Langfuse |
-| **Full-stack systems** | Connecting interfaces, application state, APIs and persistence. | React · Redux · Node.js · MongoDB |
+<a href="https://github.com/raghammer1?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-languages-light.svg" />
+    <img src="assets/github-languages.svg" width="100%" alt="Primary languages across my original public repositories, measured by repository count." />
+  </picture>
+</a>
 
-[Explore the engineering case studies →](https://raghav-agarwal.raghagarwal.workers.dev/#work)
+<a href="https://github.com/raghammer1#contribution-activity">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-activity-light.svg" />
+    <img src="assets/github-activity.svg" width="100%" alt="Public GitHub profile activity: contributions over the past year, current streak, longest streak in that period, and a daily contribution heatmap." />
+  </picture>
+</a>
 
-## 02 / Built out of curiosity
+<sub>Snapshots from GitHub, refreshed daily. Language mix counts each original public repository once by its primary language. Activity reflects the contributions visible on my public profile; streaks use UTC dates.</sub>
+
+[Read the stats as text →](assets/github-stats.md)
+
+## Start with the code
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/raghammer1/portfolio-website-2026">Engineering portfolio ↗</a></h3>
-      <p>A space-inspired home for my work, with interactive engineering demos and accessible navigation.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Playwright</code></p>
-      <p><a href="https://raghav-agarwal.raghagarwal.workers.dev/">Explore the site →</a></p>
+      <h3><a href="https://github.com/raghammer1/Server-and-receiver-sim">Reliable transport over UDP ↗</a></h3>
+      <p><strong>How does a message survive packet loss?</strong><br>A networking learning project with acknowledgements, retransmission and simulated loss.</p>
+      <p><code>Python</code> <code>UDP sockets</code></p>
+      <p>Read the <a href="https://github.com/raghammer1/Server-and-receiver-sim/blob/main/sender.py">sender</a> and <a href="https://github.com/raghammer1/Server-and-receiver-sim/blob/main/receiver.py">receiver</a>.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/raghammer1/E-Invoicing-Backend">E-invoicing backend ↗</a></h3>
-      <p>PDF → UBL XML conversion, validation, storage and sharing. A university team project.</p>
+      <p><strong>From a PDF to a structured invoice.</strong><br>Conversion to UBL XML, validation, storage and sharing. A university team project.</p>
       <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
-      <p><a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend">Inspect the backend →</a></p>
+      <p>Explore the <a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend/pdfConverter">converter</a>, <a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend/routes">routes</a> and <a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend/tests">tests</a>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/raghammer1/Server-and-receiver-sim">Reliable transport over UDP ↗</a></h3>
-      <p>A networking learning project exploring acknowledgements, retransmission and simulated packet loss.</p>
-      <p><code>Python</code> <code>UDP sockets</code></p>
-      <p><a href="https://raghav-agarwal.raghagarwal.workers.dev/#transport-preview">Try the interactive explainer →</a></p>
+      <h3><a href="https://github.com/raghammer1/sudoku2">Sudoku generator & solver ↗</a></h3>
+      <p><strong>A grid of constraints. A backtracking solver.</strong><br>Play a puzzle or build a custom board and solve it with recursive backtracking.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+      <p><a href="https://github.com/raghammer1/sudoku2/blob/main/sudoku-solver/script.js">Read the solver</a> · <a href="https://raghammer1.github.io/sudoku2/">Try it live</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/raghammer1/sudoku2">Sudoku generator & solver ↗</a></h3>
-      <p>Play a puzzle or build a custom grid. A recursive backtracking solver works through the constraints.</p>
-      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-      <p><a href="https://raghammer1.github.io/sudoku2/">Play a puzzle →</a></p>
+      <h3><a href="https://github.com/raghammer1/portfolio-website-2026">The portfolio, under the hood ↗</a></h3>
+      <p><strong>The implementation behind the interface.</strong><br>Interactive engineering demos, accessible navigation and browser checks.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Playwright</code></p>
+      <p><a href="https://github.com/raghammer1/portfolio-website-2026/tree/main/src">Explore the source</a> · <a href="https://raghav-agarwal.raghagarwal.workers.dev/">See the result</a></p>
     </td>
   </tr>
 </table>
 
-## 03 / Beyond the code
+## Keep exploring
 
-I like making things work. I like understanding **why** they work even more.
+[**All repositories →**](https://github.com/raghammer1?tab=repositories) · [Python](https://github.com/raghammer1?tab=repositories&language=python) · [JavaScript](https://github.com/raghammer1?tab=repositories&language=javascript) · [TypeScript](https://github.com/raghammer1?tab=repositories&language=typescript)
 
-That curiosity led me to create [**Unwinding Curiosity**](https://www.youtube.com/@unwindingcuriosity), exploring science through articles and conversations, and to found the **UNSW Active Thinkers Society**.
+[Pull requests I've opened](https://github.com/search?q=author%3Araghammer1+is%3Apr&type=pullrequests) · [Merged contributions](https://github.com/search?q=author%3Araghammer1+is%3Apr+is%3Amerged&type=pullrequests) · [Things I've starred](https://github.com/raghammer1?tab=stars)
 
 ---
 
-**Interesting problem? Unfinished idea? Let's talk.**<br>
-[raghagarwal@gmail.com](mailto:raghagarwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raghav-agarwal-84a59822b/)
+**Away from the commit history:** I explore science through [Unwinding Curiosity](https://www.youtube.com/@unwindingcuriosity). My [portfolio](https://raghav-agarwal.raghagarwal.workers.dev/) has the longer story behind my engineering work.
 
-<p align="right"><sub>STAY CURIOUS. GO DEEPER.</sub></p>
+[Say hello](mailto:raghagarwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raghav-agarwal-84a59822b/)
