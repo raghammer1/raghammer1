@@ -1,110 +1,106 @@
-<h1 align="center">Hi 👋, I'm Raghav</h1>
-<h3 align="center">Software Developer @ Commonwealth Bank </h3>
+<a href="https://github.com/raghammer1?tab=repositories">
+  <img src="assets/hero.svg" width="100%" alt="Raghav Agarwal, @raghammer1. Build. Break. Understand. Repeat. Source code, experiments and things learned along the way." />
+</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghammer1&label=Profile%20views&color=0e75b6&style=flat" alt="raghammer1" />
+  <a href="https://github.com/raghammer1?tab=repositories"><strong>REPOSITORIES</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/search?q=author%3Araghammer1+is%3Apr&amp;type=pullrequests">Pull requests</a>
+  &nbsp; · &nbsp;
+  <a href="#github-in-numbers">Activity & stats</a>
+  &nbsp; · &nbsp;
+  <a href="https://raghav-agarwal.raghagarwal.workers.dev/">Portfolio ↗</a>
 </p>
 
----
+I'm **Raghav** — a software engineer in **Sydney**, currently at **Commonwealth Bank**. This is my workbench: tools, experiments, coursework and side projects across **Python, JavaScript/TypeScript and full-stack development**.
 
-### 👨‍💻 About Me
+Some repositories are polished; others show the learning process. Here's a map into the code.
 
-- 🔭 Currently working on: **building impactful digital experiences at CommBank**
-- 💡 Always exploring: **new tech, scalable architectures, and side projects**
-- 💬 Ask me about: **React, Node.js, TypeScript, Testing, or Cloud Dev**
-- 📫 Reach me at: **raghagarwal@gmail.com**
-- ⚡ Fun fact: *“I might just debug my dreams too 😄”*
+## GitHub in numbers
 
----
+<a href="https://github.com/raghammer1?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-overview-light.svg" />
+    <img src="assets/github-overview.svg" width="100%" alt="GitHub overview: original public repositories, stars earned, public pull requests authored and public pull requests merged." />
+  </picture>
+</a>
 
-### 🌐 Connect with Me
+<a href="https://github.com/raghammer1?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-languages-light.svg" />
+    <img src="assets/github-languages.svg" width="100%" alt="Primary languages across my original public repositories, measured by repository count." />
+  </picture>
+</a>
 
-[Visit my portfolio](https://raghav-agarwal.raghagarwal.workers.dev/)
+<a href="https://github.com/raghammer1#contribution-activity">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-activity-light.svg" />
+    <img src="assets/github-activity.svg" width="100%" alt="Public GitHub profile activity: contributions over the past year, current streak, longest streak in that period, and a daily contribution heatmap." />
+  </picture>
+</a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raghav-agarwal-84a59822b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:raghagarwal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
+<sub>Snapshots from GitHub, refreshed daily. Language mix counts each original public repository once by its primary language. Activity reflects the contributions visible on my public profile; streaks use UTC dates.</sub>
 
----
+[Read the stats as text →](assets/github-stats.md)
 
-### 🛠️ Languages & Tools
+## Languages & tools
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" title="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg" />
+  <img src="assets/toolkit.svg" width="100%" alt="Languages: Python, JavaScript, TypeScript, Java, HTML5 and CSS3. Frameworks and runtimes: React, Next.js, Vue.js, Node.js, Express and Django. Data and cloud: MongoDB, PostgreSQL, MySQL, AWS and Azure. Tools and design: Docker, Git, Postman, Figma and Photoshop." />
+</picture>
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+<details>
+<summary>View the toolkit as text</summary>
 
-  <!-- DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" title="Azure" />
+- **Languages:** Python · JavaScript · TypeScript · Java · HTML5 · CSS3
+- **Frameworks & runtimes:** React · Next.js · Vue.js · Node.js · Express · Django
+- **Data & cloud:** MongoDB · PostgreSQL · MySQL · AWS · Azure
+- **Tools & design:** Docker · Git · Postman · Figma · Photoshop
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop" />
-</p>
+</details>
 
----
+## Start with the code
 
-### 📈 GitHub Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/raghammer1/Server-and-receiver-sim">Reliable transport over UDP ↗</a></h3>
+      <p><strong>How does a message survive packet loss?</strong><br>A networking learning project with acknowledgements, retransmission and simulated loss.</p>
+      <p><code>Python</code> <code>UDP sockets</code></p>
+      <p>Read the <a href="https://github.com/raghammer1/Server-and-receiver-sim/blob/main/sender.py">sender</a> and <a href="https://github.com/raghammer1/Server-and-receiver-sim/blob/main/receiver.py">receiver</a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/raghammer1/E-Invoicing-Backend">E-invoicing backend ↗</a></h3>
+      <p><strong>From a PDF to a structured invoice.</strong><br>Conversion to UBL XML, validation, storage and sharing. A university team project.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
+      <p>Explore the <a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend/pdfConverter">converter</a>, <a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend/routes">routes</a> and <a href="https://github.com/raghammer1/E-Invoicing-Backend/tree/main/backend/tests">tests</a>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/raghammer1/sudoku2">Sudoku generator & solver ↗</a></h3>
+      <p><strong>A grid of constraints. A backtracking solver.</strong><br>Play a puzzle or build a custom board and solve it with recursive backtracking.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+      <p><a href="https://github.com/raghammer1/sudoku2/blob/main/sudoku-solver/script.js">Read the solver</a> · <a href="https://raghammer1.github.io/sudoku2/">Try it live</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/raghammer1/portfolio-website-2026">The portfolio, under the hood ↗</a></h3>
+      <p><strong>The implementation behind the interface.</strong><br>Interactive engineering demos, accessible navigation and browser checks.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Playwright</code></p>
+      <p><a href="https://github.com/raghammer1/portfolio-website-2026/tree/main/src">Explore the source</a> · <a href="https://raghav-agarwal.raghagarwal.workers.dev/">See the result</a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghammer1&show_icons=true&theme=default" alt="raghammer1" />
-</p>
+## Keep exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghammer1&layout=compact&theme=default" alt="Top Languages" />
-</p>
+[**All repositories →**](https://github.com/raghammer1?tab=repositories) · [Python](https://github.com/raghammer1?tab=repositories&language=python) · [JavaScript](https://github.com/raghammer1?tab=repositories&language=javascript) · [TypeScript](https://github.com/raghammer1?tab=repositories&language=typescript)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghammer1&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghammer1&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🚀 Projects
-
-- 🧾 [Invoice UBL Converter](https://github.com/raghammer1/...) – Built for SMEs to easily convert PDFs to e-invoices.
-- 🌱 [Climate Change NGO Website](https://github.com/raghammer1/...) – Awareness platform with accessibility-first design.
-- 📦 [React Component Library](https://github.com/raghammer1/...) – Custom components with Framer Motion and Tailwind.
+[Pull requests I've opened](https://github.com/search?q=author%3Araghammer1+is%3Apr&type=pullrequests) · [Merged contributions](https://github.com/search?q=author%3Araghammer1+is%3Apr+is%3Amerged&type=pullrequests) · [Things I've starred](https://github.com/raghammer1?tab=stars)
 
 ---
 
-### 💡 Quote I live by
+**Away from the commit history:** I explore science through [Unwinding Curiosity](https://www.youtube.com/@unwindingcuriosity). My [portfolio](https://raghav-agarwal.raghagarwal.workers.dev/) has the longer story behind my engineering work.
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
-
+[Say hello](mailto:raghagarwal@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raghav-agarwal-84a59822b/)
