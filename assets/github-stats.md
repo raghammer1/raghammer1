@@ -9,7 +9,7 @@ Updated **2026-10-21 UTC**. These are generated snapshots, refreshed daily after
 | Original public repositories | 46 |
 | Stars on original public repositories | 2 |
 | Authored public pull requests, all time | 45 |
-| Merged public pull requests, all time | 40 |
+| Merged public pull requests, all time | 41 |
 
 Repository totals include archived repositories and exclude forks. PR totals count the user's authored pull requests in any public repository.
 
@@ -20,7 +20,7 @@ One count per original public repository, using GitHub's detected primary langua
 | Language | Repositories |
 | :--- | ---: |
 | JavaScript | 25 |
-| Python | 7 |
+| Python | 8 |
 | HTML | 4 |
 | Java | 2 |
 | C | 1 |
@@ -28,7 +28,7 @@ One count per original public repository, using GitHub's detected primary langua
 | Prolog | 1 |
 | TypeScript | 1 |
 
-4 repositories without a detected primary language are excluded from this table.
+3 repositories without a detected primary language are excluded from this table.
 
 ## Public profile activity
 
@@ -36,7 +36,7 @@ Window: **2025-10-22 to 2026-10-21**, inclusive (365 days).
 
 | Metric | Count |
 | :--- | ---: |
-| Contributions shown on GitHub | 656 |
+| Contributions shown on GitHub | 660 |
 | Active days | 63 |
 | Current streak, days | 2 |
 | Longest streak within this window, days | 23 |

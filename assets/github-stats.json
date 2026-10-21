@@ -24,7 +24,7 @@
       },
       {
         "name": "Python",
-        "repositories": 7
+        "repositories": 8
       },
       {
         "name": "HTML",
@@ -51,16 +51,16 @@
         "repositories": 1
       }
     ],
-    "repositories_without_language": 4
+    "repositories_without_language": 3
   },
   "pull_requests": {
     "authored": 45,
-    "merged": 40
+    "merged": 41
   },
   "activity": {
     "start": "2025-10-22",
     "end": "2026-10-21",
-    "total": 656,
+    "total": 660,
     "active_days": 63,
     "current_streak": 2,
     "longest_streak": 23,
@@ -1523,7 +1523,7 @@
       },
       {
         "date": "2026-10-21",
-        "count": 1
+        "count": 5
       }
     ]
   }
